@@ -1,3 +1,6 @@
 file 1 is edited  from git hub ui
+<<<<<<< HEAD
 azure devops
 aws devops
+=======
+>>>>>>> parent of 9aca322 (Update file1)

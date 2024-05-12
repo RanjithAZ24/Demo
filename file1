@@ -1,3 +1,8 @@
 file 1 is edited  from git hub ui
 azure devops
 aws devops
+<<<<<<< HEAD
+=======
+updating  to revert
+
+>>>>>>> 05b4c11279c182a210633b6c85872acbeac4f9dd
